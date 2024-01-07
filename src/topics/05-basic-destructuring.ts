@@ -28,7 +28,7 @@ const {author} = details;
 // console.log('Author', author);
 
 
-const [,,trunks = 'Not Found']: string[] = ['Goku','Vegueta'];
+const [,,trunks = 'Not Found']: string[] = ['Goku','Vegueta', 'Trunks'];
 
 
 console.log('Personaje 3:', trunks);
